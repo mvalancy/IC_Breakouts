@@ -1,6 +1,8 @@
 # KiCAD_BreakoutBoards
 Various breakout boards for ICs I like
 
+See [Getting started](GETTING_STARTED.md) for the project files and legacy KiCad notes.
+
 S6AE101A_solar_harvester - 
 
 ![alt tag](S6AE101A_solar_harvester/Images/S6AE101A_breakout_top.png)
